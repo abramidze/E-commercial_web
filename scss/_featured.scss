@@ -1,0 +1,218 @@
+.featured {
+  width: 1170px;
+  height: 811px;
+  margin: auto;
+  margin-top: 80px;
+}
+.title-of-featured {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+}
+.title-of-featured p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  text-align: left;
+  color: rgba(219, 68, 68, 1);
+}
+.head-of-featured {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+.head-of-featured h2 {
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.04em;
+  text-align: left;
+}
+.featured_container {
+  width: 1170px;
+  height: 600px;
+  margin: 100px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.left-side {
+  background-image: url(../images/featured_playstation.png);
+  background-repeat: no-repeat;
+  background-color: #000;
+  background-position: 29px 89px;
+  width: 570px;
+  height: 600px;
+  color: #fff;
+  position: relative;
+}
+.playstation-text {
+  position: absolute;
+  left: 32px;
+  bottom: 32px;
+  width: 242px;
+}
+.playstation-text h3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.playstation-text p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.playstation-text a {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+}
+.right-side {
+  width: 570px;
+  height: 600px;
+}
+.top {
+  background-image: url(../images/women-collection.png);
+  background-repeat: no-repeat;
+  background-color: #0d0d0d;
+  background-position: right;
+  width: 570px;
+  height: 284px;
+  position: relative;
+  color: #fff;
+}
+.women-text {
+  position: absolute;
+  left: 24px;
+  bottom: 24px;
+  width: 255px;
+}
+.women-text h3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.women-text p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.women-text a {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+}
+.bottom {
+  width: 570px;
+  height: 280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 37px;
+}
+.amazon {
+  background-image: url(../images/featured_amazon.png);
+  background-repeat: no-repeat;
+  background-color: #000;
+  background-position: center;
+  width: 270px;
+  height: 280px;
+  position: relative;
+  color: #fff;
+}
+.amazon-text {
+  position: absolute;
+  left: 24px;
+  bottom: 24px;
+  width: 255px;
+}
+.amazon-text h3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.amazon-text p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.amazon-text a {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+}
+.gucci {
+  background-image: url(../images/featured_gucci.png);
+  background-repeat: no-repeat;
+  background-color: #000;
+  background-position: center;
+  width: 270px;
+  height: 280px;
+  position: relative;
+  color: #fff;
+}
+.gucci-text {
+  position: absolute;
+  left: 24px;
+  bottom: 24px;
+  width: 255px;
+}
+.gucci-text h3 {
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.gucci-text p {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.gucci-text a {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+}
